@@ -8,8 +8,7 @@ My name is `Muhammad Alif Naufal Putra`. I'm a student of `Vocational High Schoo
 <!-- Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Statistic -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alnatra23&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alnatra23&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
