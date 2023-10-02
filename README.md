@@ -28,4 +28,3 @@ If you want me to help you with your work, contact me at alifnaufalalna@gmail.co
 <br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![profile](https://komarev.com/ghpvc/?username=Alnatra23&color=yellow)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Alnatra23&color=red)
